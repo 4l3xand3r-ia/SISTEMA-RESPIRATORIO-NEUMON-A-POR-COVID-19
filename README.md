@@ -18,7 +18,10 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 Diseñar un gemelo digital de un sistema fisiológico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control en lazo cerrado.
 
 ## Descripción detallada del sistema
-...
+El sistema simula la dinámica de las presiones y flujos de aire en las vías respiratorias y alvéolos para analizar la mecánica respiratoria en pacientes con neumonía por COVID-19, comparando un individuo sano con un paciente crítico. Utiliza un modelo basado en un circuito RLC de dos mallas que representa:
+Primera malla: Incluye una fuente de voltaje (presión de inspiración), un resistor R1R1R1 (resistencia de vías principales), un inductor L1 (inercia del flujo) y un capacitor C1 (elasticidad pulmonar). La corriente I1 se divide en dos: una parte hacia C1 y otra hacia la segunda malla.
+Segunda malla: Contiene un resistor R2 y un inductor L2 en serie (resistencia e inercia a nivel alveolar), y capacitores C2 (elasticidad alveolar) y C3 (distensibilidad de vías centrales) en paralelo.
+El modelo permite evaluar cómo inflamación, secreciones y daño alveolar afectan el flujo y la presión respiratoria, ofreciendo una representación precisa de las dinámicas pulmonares en condiciones críticas.
 
 ## Referencias principales
 [1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
