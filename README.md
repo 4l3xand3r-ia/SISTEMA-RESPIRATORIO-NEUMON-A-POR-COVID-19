@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=4l3xand3r-ia/SISTEMA-RESPIRATORIO-NEUMON-A-POR-COVID-19)
 
-# Nombre del proyecto
+# Sistema respiratorio: Neumonía por COVID-19
 
 ## Estudiantes
 Venegas Ornelas Lizeth Guadalupe, Torres Avila Alexander, Patraca Toledo Abishnaed
@@ -24,9 +24,6 @@ Segunda malla: Contiene un resistor R2 y un inductor L2 en serie (resistencia e 
 El modelo permite evaluar cómo inflamación, secreciones y daño alveolar afectan el flujo y la presión respiratoria, ofreciendo una representación precisa de las dinámicas pulmonares en condiciones críticas.
 
 ## Referencias principales
-[1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
+[1] National Heart, Lung and Blood Institute. “¿Qué es la neumonía?” NHLBI, NIH. [En línea]. Disponible: https://www.nhlbi.nih.gov/es/salud/neumonia#:~:text=La%20neumonía%20es%20una%20infección,hongos%20que%20pueden%20provocar%20neumonía.
 
-[2] P. A. Valle, L. N. Coria, C. Plata & Y. Salazar, “CAR-T cell therapy for the treatment of ALL: eradication conditions and in silico experimentation,” Hemato, vol. 2, issue 3, pp. 441-462, Jul 2021. https://doi.org/10.3390/hemato2030028 
-
-[3] MathWorks. (n.d.). Sistemas Dinámicos [Online]. Available: https://www.mathworks.com/discovery/dynamic-systems.html
-
+[2] D. A. Menchén, J. B. Vázquez, J. M. B. Allende y G. H. García, “Neumonía vírica. Neumonía en la COVID-19”, Med. - Programa Form. Medica Contin. Acreditado, vol. 13, n.º 55, pp. 3224–3234, mayo de 2022. Accedido el 11 de diciembre de 2024. [En línea]. Disponible: https://doi.org/10.1016/j.med.2022.05.003
